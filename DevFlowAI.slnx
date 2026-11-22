@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevFlowAI.AgentWorker/DevFlowAI.AgentWorker.csproj" />
+    <Project Path="src/DevFlowAI.Api/DevFlowAI.Api.csproj" />
+    <Project Path="src/DevFlowAI.Application/DevFlowAI.Application.csproj" />
+    <Project Path="src/DevFlowAI.Domain/DevFlowAI.Domain.csproj" />
+    <Project Path="src/DevFlowAI.Infrastructure/DevFlowAI.Infrastructure.csproj" />
+    <Project Path="src/DevFlowAI.Web/DevFlowAI.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevFlowAI.Application.Tests/DevFlowAI.Application.Tests.csproj" />
+    <Project Path="tests/DevFlowAI.Domain.Tests/DevFlowAI.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
